@@ -1,0 +1,12 @@
+.container {
+  height: 50px;
+  width: 15px;
+}
+
+.me-auto {
+  margin-left: 500px;
+}
+
+.me-2 {
+  margin-left: 150px;
+}
